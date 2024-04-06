@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.7a47cc0e.css",
-    "main.js": "./static/js/main.f451001a.js",
-    "static/js/453.2ade8db8.chunk.js": "./static/js/453.2ade8db8.chunk.js",
-    "static/media/CCCU.png": "./static/media/CCCU.2a6c8dd6427023d7328a.png",
-    "static/media/MACAPS.png": "./static/media/MACAPS.9b82d77bd7c398a572fb.png",
-    "static/media/CityU.png": "./static/media/CityU.4f0eef80af4ba2fd8837.png",
-    "static/media/TTL.png": "./static/media/TTL.e337dccd02e3fa3c1efc.png",
-    "static/media/bank-of-east-asia.png": "./static/media/bank-of-east-asia.9705c4095e7ca4e05517.png",
+    "main.css": "./static/css/main.153104b2.css",
+    "main.js": "./static/js/main.59ca8375.js",
+    "static/media/options-bg.jpg": "./static/media/options-bg.751f4fd00591db59aeff.jpg",
+    "static/media/handling-bg.jpg": "./static/media/handling-bg.ce46849b2263efd1ebf7.jpg",
+    "static/media/power-bg.jpg": "./static/media/power-bg.84425e49e4c3e66303b3.jpg",
+    "static/media/contact-bg.jpg": "./static/media/contact-bg.6f2977c9fcb1ab7d3ec9.jpg",
+    "static/media/speed-bg.jpg": "./static/media/speed-bg.b62889516a4c546b7b22.jpg",
     "index.html": "./index.html",
-    "main.7a47cc0e.css.map": "./static/css/main.7a47cc0e.css.map",
-    "main.f451001a.js.map": "./static/js/main.f451001a.js.map",
-    "453.2ade8db8.chunk.js.map": "./static/js/453.2ade8db8.chunk.js.map"
+    "main.153104b2.css.map": "./static/css/main.153104b2.css.map",
+    "main.59ca8375.js.map": "./static/js/main.59ca8375.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a47cc0e.css",
-    "static/js/main.f451001a.js"
+    "static/css/main.153104b2.css",
+    "static/js/main.59ca8375.js"
   ]
 }
