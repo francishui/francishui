@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.1079123a.css",
-    "main.js": "./static/js/main.b8084179.js",
+    "main.css": "./static/css/main.7a47cc0e.css",
+    "main.js": "./static/js/main.be07e289.js",
     "static/js/453.2ade8db8.chunk.js": "./static/js/453.2ade8db8.chunk.js",
+    "static/media/CCCU.png": "./static/media/CCCU.2a6c8dd6427023d7328a.png",
+    "static/media/MACAPS.png": "./static/media/MACAPS.9b82d77bd7c398a572fb.png",
+    "static/media/CityU.png": "./static/media/CityU.4f0eef80af4ba2fd8837.png",
+    "static/media/TTL.png": "./static/media/TTL.e337dccd02e3fa3c1efc.png",
+    "static/media/bank-of-east-asia.png": "./static/media/bank-of-east-asia.9705c4095e7ca4e05517.png",
     "index.html": "./index.html",
-    "main.1079123a.css.map": "./static/css/main.1079123a.css.map",
-    "main.b8084179.js.map": "./static/js/main.b8084179.js.map",
+    "main.7a47cc0e.css.map": "./static/css/main.7a47cc0e.css.map",
+    "main.be07e289.js.map": "./static/js/main.be07e289.js.map",
     "453.2ade8db8.chunk.js.map": "./static/js/453.2ade8db8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1079123a.css",
-    "static/js/main.b8084179.js"
+    "static/css/main.7a47cc0e.css",
+    "static/js/main.be07e289.js"
   ]
 }
