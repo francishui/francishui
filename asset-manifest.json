@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.2470f811.css",
-    "main.js": "./static/js/main.653c4a21.js",
+    "main.css": "./static/css/main.bc7a3e7c.css",
+    "main.js": "./static/js/main.12d7f853.js",
     "static/media/francishui.jpg": "./static/media/francishui.1fcc27cfd55c856257cf.jpg",
     "static/media/recentPic.jpg": "./static/media/recentPic.8e88e6f6fce9dd930a59.jpg",
     "static/media/Jenkins.png": "./static/media/Jenkins.4209692c0d7ff60b1da9.png",
     "static/media/Soap.png": "./static/media/Soap.00ed249bc9f45d22d613.png",
     "static/media/CCCU.png": "./static/media/CCCU.2a6c8dd6427023d7328a.png",
     "static/media/python.png": "./static/media/python.54c9b5f5c7f982480aa3.png",
+    "static/media/CityU.png": "./static/media/CityU.4f0eef80af4ba2fd8837.png",
     "static/media/csharp.png": "./static/media/csharp.df37dee3e0c99983cc1e.png",
     "static/media/React.png": "./static/media/React.779fd55ab5eb5d5e9e68.png",
     "static/media/OracleSQL.png": "./static/media/OracleSQL.e77a93d4086d8ca4aa41.png",
@@ -30,11 +31,11 @@
     "static/media/Sourcetree.png": "./static/media/Sourcetree.3db02484a24467b60bcb.png",
     "static/media/MSOffice.png": "./static/media/MSOffice.45d33facc51481989714.png",
     "index.html": "./index.html",
-    "main.2470f811.css.map": "./static/css/main.2470f811.css.map",
-    "main.653c4a21.js.map": "./static/js/main.653c4a21.js.map"
+    "main.bc7a3e7c.css.map": "./static/css/main.bc7a3e7c.css.map",
+    "main.12d7f853.js.map": "./static/js/main.12d7f853.js.map"
   },
   "entrypoints": [
-    "static/css/main.2470f811.css",
-    "static/js/main.653c4a21.js"
+    "static/css/main.bc7a3e7c.css",
+    "static/js/main.12d7f853.js"
   ]
 }
