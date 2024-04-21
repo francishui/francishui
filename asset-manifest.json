@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.ce598efd.css",
-    "main.js": "./static/js/main.18c13811.js",
+    "main.css": "./static/css/main.bb097577.css",
+    "main.js": "./static/js/main.12381bde.js",
     "static/media/francishui.jpg": "./static/media/francishui.1fcc27cfd55c856257cf.jpg",
     "static/media/recentPic.jpg": "./static/media/recentPic.8e88e6f6fce9dd930a59.jpg",
     "static/media/Jenkins.png": "./static/media/Jenkins.4209692c0d7ff60b1da9.png",
@@ -34,11 +34,11 @@
     "static/media/bank-of-east-asia.png": "./static/media/bank-of-east-asia.9705c4095e7ca4e05517.png",
     "static/media/MSOffice.png": "./static/media/MSOffice.45d33facc51481989714.png",
     "index.html": "./index.html",
-    "main.ce598efd.css.map": "./static/css/main.ce598efd.css.map",
-    "main.18c13811.js.map": "./static/js/main.18c13811.js.map"
+    "main.bb097577.css.map": "./static/css/main.bb097577.css.map",
+    "main.12381bde.js.map": "./static/js/main.12381bde.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce598efd.css",
-    "static/js/main.18c13811.js"
+    "static/css/main.bb097577.css",
+    "static/js/main.12381bde.js"
   ]
 }
