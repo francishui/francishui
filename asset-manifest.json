@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.cb47f900.css",
+    "main.css": "./static/css/main.ce598efd.css",
     "main.js": "./static/js/main.18c13811.js",
     "static/media/francishui.jpg": "./static/media/francishui.1fcc27cfd55c856257cf.jpg",
     "static/media/recentPic.jpg": "./static/media/recentPic.8e88e6f6fce9dd930a59.jpg",
@@ -34,11 +34,11 @@
     "static/media/bank-of-east-asia.png": "./static/media/bank-of-east-asia.9705c4095e7ca4e05517.png",
     "static/media/MSOffice.png": "./static/media/MSOffice.45d33facc51481989714.png",
     "index.html": "./index.html",
-    "main.cb47f900.css.map": "./static/css/main.cb47f900.css.map",
+    "main.ce598efd.css.map": "./static/css/main.ce598efd.css.map",
     "main.18c13811.js.map": "./static/js/main.18c13811.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb47f900.css",
+    "static/css/main.ce598efd.css",
     "static/js/main.18c13811.js"
   ]
 }
