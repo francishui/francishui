@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.bc7a3e7c.css",
-    "main.js": "./static/js/main.9e716bda.js",
+    "main.css": "./static/css/main.cb47f900.css",
+    "main.js": "./static/js/main.18c13811.js",
     "static/media/francishui.jpg": "./static/media/francishui.1fcc27cfd55c856257cf.jpg",
     "static/media/recentPic.jpg": "./static/media/recentPic.8e88e6f6fce9dd930a59.jpg",
     "static/media/Jenkins.png": "./static/media/Jenkins.4209692c0d7ff60b1da9.png",
     "static/media/Soap.png": "./static/media/Soap.00ed249bc9f45d22d613.png",
     "static/media/CCCU.png": "./static/media/CCCU.2a6c8dd6427023d7328a.png",
+    "static/media/MACAPS.png": "./static/media/MACAPS.9b82d77bd7c398a572fb.png",
     "static/media/python.png": "./static/media/python.54c9b5f5c7f982480aa3.png",
     "static/media/CityU.png": "./static/media/CityU.4f0eef80af4ba2fd8837.png",
     "static/media/csharp.png": "./static/media/csharp.df37dee3e0c99983cc1e.png",
@@ -17,6 +18,7 @@
     "static/media/Postman.png": "./static/media/Postman.cc88d5be005e88d79e4a.png",
     "static/media/cpp.png": "./static/media/cpp.f41d7bc7639668e3c4c0.png",
     "static/media/IBMDB2.png": "./static/media/IBMDB2.f4049413231f34c5d43e.png",
+    "static/media/TTL.png": "./static/media/TTL.e337dccd02e3fa3c1efc.png",
     "static/media/SpringBoot.png": "./static/media/SpringBoot.5dff96104004fb87d8d2.png",
     "static/media/Gitlab.png": "./static/media/Gitlab.0253260dd880b507648a.png",
     "static/media/OCP.png": "./static/media/OCP.979dfa46144642274f6b.png",
@@ -29,13 +31,14 @@
     "static/media/Junit.png": "./static/media/Junit.43abc9d12ac0cc194757.png",
     "static/media/Github.png": "./static/media/Github.612ccb02bd192c9563a5.png",
     "static/media/Sourcetree.png": "./static/media/Sourcetree.3db02484a24467b60bcb.png",
+    "static/media/bank-of-east-asia.png": "./static/media/bank-of-east-asia.9705c4095e7ca4e05517.png",
     "static/media/MSOffice.png": "./static/media/MSOffice.45d33facc51481989714.png",
     "index.html": "./index.html",
-    "main.bc7a3e7c.css.map": "./static/css/main.bc7a3e7c.css.map",
-    "main.9e716bda.js.map": "./static/js/main.9e716bda.js.map"
+    "main.cb47f900.css.map": "./static/css/main.cb47f900.css.map",
+    "main.18c13811.js.map": "./static/js/main.18c13811.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc7a3e7c.css",
-    "static/js/main.9e716bda.js"
+    "static/css/main.cb47f900.css",
+    "static/js/main.18c13811.js"
   ]
 }
