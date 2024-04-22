@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "./static/css/main.55d707f9.css",
-    "main.js": "./static/js/main.4133fe76.js",
+    "main.css": "./static/css/main.d5c55c1b.css",
+    "main.js": "./static/js/main.35b945e8.js",
     "static/media/francishui.jpg": "./static/media/francishui.1fcc27cfd55c856257cf.jpg",
-    "static/media/Francishui_web.png": "./static/media/Francishui_web.6158ad64325d8db54cef.png",
+    "static/media/Francishui_web.png": "./static/media/Francishui_web.14817b5bce6fe1cb362a.png",
     "static/media/recentPic.jpg": "./static/media/recentPic.8e88e6f6fce9dd930a59.jpg",
     "static/media/Jenkins.png": "./static/media/Jenkins.4209692c0d7ff60b1da9.png",
     "static/media/Soap.png": "./static/media/Soap.00ed249bc9f45d22d613.png",
@@ -13,6 +13,7 @@
     "static/media/CityU.png": "./static/media/CityU.4f0eef80af4ba2fd8837.png",
     "static/media/csharp.png": "./static/media/csharp.df37dee3e0c99983cc1e.png",
     "static/media/React.png": "./static/media/React.779fd55ab5eb5d5e9e68.png",
+    "static/media/Tomcat.png": "./static/media/Tomcat.b0be5ab4b153b1e670ed.png",
     "static/media/OracleSQL.png": "./static/media/OracleSQL.e77a93d4086d8ca4aa41.png",
     "static/media/Flask.png": "./static/media/Flask.6ff3b394eeb96e6e6f6e.png",
     "static/media/MySQL.png": "./static/media/MySQL.ce1d6531042db74261ea.png",
@@ -23,7 +24,9 @@
     "static/media/SpringBoot.png": "./static/media/SpringBoot.5dff96104004fb87d8d2.png",
     "static/media/Gitlab.png": "./static/media/Gitlab.0253260dd880b507648a.png",
     "static/media/OCP.png": "./static/media/OCP.979dfa46144642274f6b.png",
+    "static/media/ICON.png": "./static/media/ICON.0b0fe61283b1f4155a7c.png",
     "static/media/c.png": "./static/media/c.08bf6bb0a0a5b8f2b685.png",
+    "static/media/Jira.png": "./static/media/Jira.d698bfcef20008d789cd.png",
     "static/media/Flutter.png": "./static/media/Flutter.8eecc577df4e213847fb.png",
     "static/media/Java.png": "./static/media/Java.a31ad9622d5c25aaaf3f.png",
     "static/media/WAS.png": "./static/media/WAS.a82d0d5c5741d3cdebf1.png",
@@ -35,11 +38,11 @@
     "static/media/bank-of-east-asia.png": "./static/media/bank-of-east-asia.9705c4095e7ca4e05517.png",
     "static/media/MSOffice.png": "./static/media/MSOffice.45d33facc51481989714.png",
     "index.html": "./index.html",
-    "main.55d707f9.css.map": "./static/css/main.55d707f9.css.map",
-    "main.4133fe76.js.map": "./static/js/main.4133fe76.js.map"
+    "main.d5c55c1b.css.map": "./static/css/main.d5c55c1b.css.map",
+    "main.35b945e8.js.map": "./static/js/main.35b945e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.55d707f9.css",
-    "static/js/main.4133fe76.js"
+    "static/css/main.d5c55c1b.css",
+    "static/js/main.35b945e8.js"
   ]
 }
