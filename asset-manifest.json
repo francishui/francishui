@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.55d707f9.css",
-    "main.js": "./static/js/main.69ddc389.js",
+    "main.js": "./static/js/main.512f687a.js",
     "static/media/francishui.jpg": "./static/media/francishui.1fcc27cfd55c856257cf.jpg",
     "static/media/Francishui_web.png": "./static/media/Francishui_web.6158ad64325d8db54cef.png",
     "static/media/recentPic.jpg": "./static/media/recentPic.8e88e6f6fce9dd930a59.jpg",
@@ -36,10 +36,10 @@
     "static/media/MSOffice.png": "./static/media/MSOffice.45d33facc51481989714.png",
     "index.html": "./index.html",
     "main.55d707f9.css.map": "./static/css/main.55d707f9.css.map",
-    "main.69ddc389.js.map": "./static/js/main.69ddc389.js.map"
+    "main.512f687a.js.map": "./static/js/main.512f687a.js.map"
   },
   "entrypoints": [
     "static/css/main.55d707f9.css",
-    "static/js/main.69ddc389.js"
+    "static/js/main.512f687a.js"
   ]
 }
