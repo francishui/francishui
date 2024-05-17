@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.d5c55c1b.css",
-    "main.js": "./static/js/main.f2bd33b3.js",
+    "main.js": "./static/js/main.6b5693ff.js",
     "static/media/francishui.jpg": "./static/media/francishui.1fcc27cfd55c856257cf.jpg",
     "static/media/Francishui_web.png": "./static/media/Francishui_web.14817b5bce6fe1cb362a.png",
     "static/media/recentPic.jpg": "./static/media/recentPic.8e88e6f6fce9dd930a59.jpg",
+    "static/media/Blockchain.png": "./static/media/Blockchain.4ac48bb6973a5d6b9f73.png",
     "static/media/Jenkins.png": "./static/media/Jenkins.4209692c0d7ff60b1da9.png",
+    "static/media/FYP.png": "./static/media/FYP.6a74275514313181fe2b.png",
     "static/media/Soap.png": "./static/media/Soap.00ed249bc9f45d22d613.png",
     "static/media/CCCU.png": "./static/media/CCCU.2a6c8dd6427023d7328a.png",
     "static/media/MACAPS.png": "./static/media/MACAPS.9b82d77bd7c398a572fb.png",
@@ -40,10 +42,10 @@
     "static/media/MSOffice.png": "./static/media/MSOffice.45d33facc51481989714.png",
     "index.html": "./index.html",
     "main.d5c55c1b.css.map": "./static/css/main.d5c55c1b.css.map",
-    "main.f2bd33b3.js.map": "./static/js/main.f2bd33b3.js.map"
+    "main.6b5693ff.js.map": "./static/js/main.6b5693ff.js.map"
   },
   "entrypoints": [
     "static/css/main.d5c55c1b.css",
-    "static/js/main.f2bd33b3.js"
+    "static/js/main.6b5693ff.js"
   ]
 }
