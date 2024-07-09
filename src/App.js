@@ -40,6 +40,11 @@ const theme = createTheme({
     h8: {
       fontWeight: 700,
       fontFamily: 'Inconsolata'
+    },
+    body2:
+    {
+      fontWeight: 400,
+      fontFamily: 'Inconsolata'
     }
   },
   palette: {

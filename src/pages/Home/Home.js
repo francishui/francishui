@@ -30,7 +30,7 @@ function Home()
             <Stack direction="row" spacing={{ xs: 1, md: 2 }} justifyContent="center" >
               <Typography sx={{fontWeight: "600", fontSize:{lg:"3vw", md: "6.5vw", xs: "8vw"}, color: "primary.white"}}> Analyst Programmer </Typography>
             </Stack>
-            <Typography sx={{ fontSize:{lg:"1.5vw", md: "2.8vw", xs: "3.3vw"}, fontFamily: 'consolas', color: "primary.green" }}>
+            <Typography variant='body2' sx={{ fontSize:{lg:"1.5vw", md: "2.8vw", xs: "3.3vw"}, color: "primary.green" }}>
               <strong><Typing var = "> based in Toronto <br>> seeking for new challenge <br>> click the buttons to learn more about me!"/></strong>
             </Typography>
           </Stack>

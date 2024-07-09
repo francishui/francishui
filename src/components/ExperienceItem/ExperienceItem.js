@@ -33,7 +33,7 @@ export default function ExperienceItem(props)
         <Stack direction="column" spacing={{lg:"0.5vh", md:"0.25vh",xs:"0.5vh"}} padding={{lg:"0.5vh", md:"0.3vh",xs:"0.4vh"}}  height={isExpanded ? "100%" : "0vh"} overflow="hidden">
             <Stack direction="row" spacing={1}>
             <HubIcon size="small" sx={{paddingTop:"0.5vh", color: "primary.black", fontSize:{lg:"1.2vw", md:"1.5vw", xs: "4vw"}}}/>
-            <Typography fontFamily='Inconsolata' fontSize={{lg:"1vw", md:"1.5vw", xs:"3.75vw"}}>{props.skill}</Typography>
+            <Typography variant='body2' fontSize={{lg:"1vw", md:"1.5vw", xs:"3.75vw"}}>{props.skill}</Typography>
             </Stack>
             {
                 props.description.map((ds)=>

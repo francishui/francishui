@@ -70,7 +70,7 @@ export default function ProjectItem(props) {
           </Stack>
           <Stack direction="row" minHeight={{lg:"2.5vh", md:"3.5vh", xs:"5vh"}} spacing={{lg:"0.5vw", md:"0.5vw", xs:"1vw"}} >
             <HubIcon sx={{color: "primary.black", fontSize:{lg:"0.8vw", md:"1.8vw", xs:"3.5vw"}}}/>
-            <Typography fontFamily='Inconsolata' sx={{color: "primary.black", fontSize:{lg:"0.8vw", md:"1.6vw", xs:"3.5vw"}}}>{props.skill}</Typography>
+            <Typography variant='body2' sx={{color: "primary.black", fontSize:{lg:"0.8vw", md:"1.6vw", xs:"3.5vw"}}}>{props.skill}</Typography>
           </Stack>
           <Stack direction="row" spacing={{lg:"0.5vw", md:"1vw", xs:"2vw"}}>
             {getTryItNow(props.tryItNow)}

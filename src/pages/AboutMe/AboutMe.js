@@ -38,7 +38,7 @@ export default function About()
             <Stack direciton="column" spacing={{lg:"2vh", md:"1vh",xs:"1vh"}}>
               <Typography sx={{color:"primary.blue", fontWeight:"600", fontSize:{lg:"3vw", md: "8vw", xs:"10vw"}}}>Francis Hui</Typography>
               <Typography sx={{color:"primary.white", fontWeight:"600", fontSize:{lg:"2vw", md: "5.4vw", xs:"6.67vw"}}}> An Analyst Programmer</Typography>
-              <Typography minHeight={{lg:"13vh", md:"25vh", xs:"25vh"}} sx={{color: "primary.green", fontWeight:"400", fontSize:{lg:"1vw", md: "3vw", xs:"4vw"}, fontFamily:'consolas'}}>
+              <Typography variant='body2' minHeight={{lg:"13vh", md:"25vh", xs:"25vh"}} sx={{color: "primary.green", fontWeight:"400", fontSize:{lg:"1vw", md: "3vw", xs:"4vw"}}}>
                 <strong>
                   <Typing var = "> Francis is a well-trained programmer familiar with DevOps cycle and backend development, professional and passionate in data structure and design pattern which are beneficial to improve system performance. He is authorized to work in Canada, and currently seeking for any opportunities available in Canada."/>
                 </strong>
