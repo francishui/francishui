@@ -13,7 +13,7 @@
       },
       {
         "skill": "Python",
-        "image": "images/skills/Python.png"
+        "image": "images/skills/python.png"
       },
       {
         "skill": "JavaScript",
@@ -50,7 +50,7 @@
         "image": "images/skills/JSP.png"
       },
       {
-        "skill": "JUnit",
+        "skill": "Junit",
         "image": "images/skills/JUnit.png"
       }
     ]
@@ -100,11 +100,11 @@
         "image": "images/skills/Git.png"
       },
 	    {
-        "skill": "GitLab",
+        "skill": "Gitlab",
         "image": "images/skills/GitLab.png"
       },
       {
-        "skill": "GitHub",
+        "skill": "Github",
         "image": "images/skills/GitHub.png"
       },
 	    {
