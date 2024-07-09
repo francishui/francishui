@@ -1,0 +1,52 @@
+[
+  {
+    "company": "The Bank of East Asia Limited",
+    "date": "Apr 2022 – Mar 2024",
+    "location": "Hong Kong",
+    "title": "Analyst Programmer",
+	  "image": "images/experience/BEA.png",
+	  "link": "https://www.hkbea.com/html/en/index.html/",
+    "isLeft": true,
+    "skill": "Java, JavaScript, SpringBoot, JSP, Oracle SQL, Jenkins, WAS, OCP, Gitlab, Postman, Microservice, REST APIs, Dynatrace, Kibana",
+    "description": 
+	  [
+      "Conducted in the system development using Java, Spring Boot and JSP",
+      "Engaged in the Cyberbanking System Development, including the project for OpenAPI, BAU and batch Jobs",
+      "Participated in complete SDLC process including requirement gathering, system design, code review and migration",
+      "Provided system support by monitoring application performance with Dynatrace and examined data and logs with Kibana to resolve production incidents and user inquiries",
+      "Responsible for large-scale microservice deployment to Red Hat OCP and AWS with Jenkins Pipeline"
+    ]
+  },
+  {
+    "company": "Transaction Technologies Ltd.",
+    "date": "Jan 2021 – Mar 2022",
+    "location": "Hong Kong",
+    "title": "Programmer",
+	  "image": "images/experience/TTL.png",
+	  "link": "https://www.tx-tech.com/",
+    "isLeft": false,
+    "skill": "Java, Soap, XML, IBMDB2, Oracle Database, Tomcat, Junit",
+    "description": 
+	  [
+      "Implemented logic for the Front Office (FO) trading system",
+      "Supported in Development, SIT, UAT, and Production environment",
+      "Provided R&D and function revamp to achieve better time complexity and enhance system performance",
+      "Executed unit test cases with Junit and Postman for accuracy of code and logging with log4j"
+    ]
+  },
+  {
+    "company": "MaCaPS International Ltd.",
+    "date": "Jun 2019 – Aug 2019",
+    "location": "Hong Kong",
+    "title": "Engineer Internship",
+	  "image": "images/experience/MACAPS.png",
+	  "link": "https://www.macaps.com.hk/web/",
+    "isLeft": true,
+    "skill": "C#, C++, C, Assembly, MS SQL",
+    "description": 
+	  [
+      "Worked on RFID and Embedded System development",
+      "Participated in Finger Vein Biometric Technology in Time Attendance System Project"
+    ]
+  }
+]

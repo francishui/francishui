@@ -1,0 +1,32 @@
+[
+    {
+      "school": "City University of Hong Kong",
+      "date": "Sep 2018 – Dec 2020",
+      "location": "Hong Kong",
+      "title": "Bachelor of Engineering in Computer and Data Engineering (Hons)",
+      "image": "images/education/CityU.png",
+	    "link": "https://www.cityu.edu.hk/",
+      "isLeft": true,
+      "description": 
+	    [
+        "First Class Honors Graduated",
+        "CGPA: 3.69 (Rank: 5 / 61)",
+        "Awarded Dean's List in Semester A and B in 2019/20"
+      ]
+    },
+	{
+      "school": "The Community College of City University of Hong Kong",
+      "date": "Sep 2016 – Jul 2018",
+      "location": "Hong Kong",
+      "title": "Associate Degree of Science in Network and Systems Administration",
+      "image": "images/education/CCCU.png",
+      "isLeft": false,
+	    "link": "https://www.cityu.edu.hk/media/press-release/2020/12/02/successful-transformation-uow-college-hong-kong",
+      "description": 
+	    [
+        "Distinction Graduated",
+        "CGPA: 3.52",
+        "Awarded Principal’s List in Semester B 2017/18"
+      ]
+    }
+  ]

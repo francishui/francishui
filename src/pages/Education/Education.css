@@ -1,0 +1,192 @@
+
+
+.timeline-education
+{
+    position: relative;
+    max-width: 100%;
+}
+
+.date-education
+{
+    position: absolute;
+    top: -20px;
+    left: 0px;
+    height: 35px;
+    border-radius: 20px;
+    color: #fff;
+    place-items:  center;
+    font-size: 14px;
+
+}
+.container-education
+{
+    padding: 1vw 3.2vw;
+    position: relative;
+    width: 50%;
+    z-index: 1;
+}
+
+
+
+.text-box-education{
+    padding: 1vh 1vw;
+    background:  white;
+    position: relative;
+    border-radius: 2vh;
+    border-style: solid;
+    border-width: 0.25vh;
+    border-color: white;
+}
+
+
+.left-container-education
+{
+    left:0;
+}
+
+.right-container-education
+{
+    left:50%;
+}
+
+.container-education img
+{
+    position: absolute;
+    width: 4.5vw;
+    border-radius: 50%;
+    background-color: white;
+    right: -4.75%;
+    top: 2vw;
+    z-index: 5;
+    box-shadow: 5px 5px 10px;
+
+}
+
+.container-education img:hover
+{
+    cursor: pointer;
+    background-color: #6aa4e6;
+    transition: 0.8s;
+    scale: 1.2;
+}
+
+.right-container-education img
+{
+    left: -4.75%;
+    box-shadow: 5px 5px 10px;
+}
+
+.right-container-education img:hover
+{
+    cursor: pointer;
+    
+
+}
+
+.timeline-education::after
+{
+   
+    content:'';
+    position: absolute;
+    width: 3px;
+    height: 100%;
+    background: white;
+    bottom: 0;
+    left:50%;
+    margin-left: -3px;
+
+}
+
+
+
+.left-container-arrow-education
+{
+    height: 0;
+    width: 0;
+    position: absolute;
+    top: 2.4vw;
+    z-index: 1;
+    border-top: 0.8vw solid transparent;
+    border-bottom: 0.8vw solid transparent;
+    border-left: 0.8vw solid white;
+    right: -0.8vw;
+}
+
+
+
+.right-container-arrow-education
+{
+    height: 0;
+    width: 0;
+    position: absolute;
+    top: 2.4vw;
+    z-index: 1;
+    border-top: 0.8vw solid transparent;
+    border-bottom: 0.8vw solid transparent;
+    border-right: 0.8vw solid white;
+    left: -0.8vw;
+}
+
+@media screen and (max-width: 900px)
+{
+    .text-box-education{
+        padding: 1.5vh 2vw;
+    }
+    
+    .timeline-education::after
+    {
+        left: 4vw;
+    }
+
+    .container-education
+    {
+        width: 100%;
+        padding-top: 2vh;
+        padding-bottom: 1vh;
+        padding-left: 11vw;
+        padding-right: 0vw;
+
+    }
+    .container-education img
+{
+
+    position: absolute;
+    width: 10vw;
+    top: 6vw;
+    left: -1.8vw;
+    z-index: 289;
+    box-shadow: 2px 1px 1px;
+
+}
+
+.container-education img:hover
+{
+    cursor: pointer;
+}
+
+
+    .right-container-education 
+    {
+        left: 0;
+    }
+
+ 
+
+    .left-container-arrow-education, .right-container-arrow-education
+    {  
+
+
+
+
+        border-top: 3vw solid transparent;
+        border-bottom: 3vw solid transparent;
+        border-right: 3vw solid white;
+        border-left: 0;
+
+        top: 4vw;
+        
+        left: -3vw;
+
+    }
+
+}

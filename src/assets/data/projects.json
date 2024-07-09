@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Starlight Chinese Opera Website Revamp",
+    "description": "Starlight Chinese Opera is a non-profit organization with the goal of introducing Cantonese Opera to the younger generation and the public in Canada.",
+    "skill": "React, Material UI, Figma",
+    "image": "images/projects/Starlight.png",
+    "location": "ON, Canada",
+  "tryItNow": "https://starlightopera.com/",
+    "sourceCode":"",
+  "download":"",
+  "video":""
+  },
+    {
+    "title": "Francis' Personal Website",
+    "description": "A website introduces myself. Follow me for the most recent information on my professional and personal endeavors.",
+    "skill": "React, Material UI",
+    "image": "images/projects/FrancishuiWeb.png",
+    "location": "Hong Kong",
+  "tryItNow": "https://francishui.com/",
+    "sourceCode":"https://github.com/francishui/francishui/",
+  "download":"",
+  "video":""
+  },
+{
+    "title": "Crypto Currency Backend Server",
+    "description": "A Backend Sever simulate the Crypto activities among blockchain like trading, mining, and rewarding. Provide Restful API for making transaction, viewing information like transaction history and blocks detail.",
+    "skill": "Python, Flask, JSON",
+    "image": "images/projects/Blockchain.png",
+    "location": "Hong Kong",
+  "tryItNow": "",
+    "sourceCode":"https://github.com/francishui/CryptoBackend/",
+  "download":"",
+  "video":""
+  },
+{
+    "title": "Final Year Project",
+    "description": "Developed an efficient path finding algorithm for a large scale graphs with time complexity O((|V|+|M|)|E|).",
+    "skill": "C++, CLI, Window Forms, Graph, Dynamic Programming",
+    "image": "images/projects/FYP.png",
+    "location": "Hong Kong",
+  "tryItNow": "",
+    "sourceCode":"",
+  "download":"FrancisHui_FYP.pdf",
+  "video":"https://www.youtube.com/watch?v=3pKGIeaZAPs"
+  }
+]

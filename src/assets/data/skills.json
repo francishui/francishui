@@ -1,0 +1,175 @@
+[
+  {
+    "category": "Programming Language",
+    "skills": 
+    [
+      {
+        "skill": "Java",
+        "image": "images/skills/Java.png"
+      },
+      {
+        "skill": "C#",
+        "image": "images/skills/CSharp.png"
+      },
+      {
+        "skill": "Python",
+        "image": "images/skills/Python.png"
+      },
+      {
+        "skill": "JavaScript",
+        "image": "images/skills/JavaScript.png"
+      },
+      {
+        "skill": "C++",
+        "image": "images/skills/C++.png"
+      },
+      {
+        "skill": "C",
+        "image": "images/skills/C.png"
+      }
+    ]
+  },
+  {
+    "category": "Framework",
+    "skills": 
+    [
+      {
+        "skill": "Spring Boot",
+        "image": "images/skills/SpringBoot.png"
+      },
+	    {
+        "skill": "ReactJS",
+        "image": "images/skills/ReactJS.png"
+      },
+      {
+        "skill": "Flask",
+        "image": "images/skills/Flask.png"
+      },
+      {
+        "skill": "JSP",
+        "image": "images/skills/JSP.png"
+      },
+      {
+        "skill": "JUnit",
+        "image": "images/skills/JUnit.png"
+      }
+    ]
+  },
+  {
+    "category": "Database",
+    "skills": 
+    [
+      {
+        "skill": "MySQL",
+        "image": "images/skills/MySQL.png"
+      },
+	    {
+        "skill": "Oracle SQL",
+        "image": "images/skills/OracleSQL.png"
+      },
+      {
+        "skill": "IBMDB2",
+        "image": "images/skills/IBMDB2.png"
+      }
+    ]
+  },
+  {
+    "category": "CI/CD",
+    "skills": 
+    [
+      {
+        "skill": "Jenkins",
+        "image": "images/skills/Jenkins.png"
+      },
+	    {
+        "skill": "Red Hat OCP",
+        "image": "images/skills/RedHatOCP.png"
+      },
+      {
+        "skill": "IBM WebSphere",
+        "image": "images/skills/IBMWebSphere.png"
+      }
+    ]
+  },
+  {
+    "category": "Source Control",
+    "skills": 
+    [
+      {
+        "skill": "Git",
+        "image": "images/skills/Git.png"
+      },
+	    {
+        "skill": "GitLab",
+        "image": "images/skills/GitLab.png"
+      },
+      {
+        "skill": "GitHub",
+        "image": "images/skills/GitHub.png"
+      },
+	    {
+        "skill": "Sourcetree",
+        "image": "images/skills/Sourcetree.png"
+      }
+    ]
+  },
+  {
+    "category": "Other Tools",
+    "skills": 
+    [
+      {
+        "skill": "Jira",
+        "image": "images/skills/Jira.png"
+      },
+      {
+        "skill": "Postman",
+        "image": "images/skills/Postman.png"
+      },
+      {
+        "skill": "Figma",
+        "image": "images/skills/Figma.png"
+      },
+	    {
+        "skill": "SoapUI",
+        "image": "images/skills/SoapUI.png"
+      },
+
+	    {
+        "skill": "MS Office",
+        "image": "images/skills/MSOffice.png"
+      }
+    ]
+  },
+  {
+    "category": "Language",
+    "skills": 
+    [
+      {
+        "skill": "English",
+        "image": ""
+      },
+	    {
+        "skill": "Cantonese",
+        "image": ""
+      },
+      {
+        "skill": "Mandarin",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "Typing Speed (WPM)",
+    "skills": 
+	  [
+      {
+        "skill": "English: 68",
+        "image": ""
+      },
+	    {
+        "skill": "Chinese: 53",
+        "image": ""
+      }
+    ]
+  }
+]

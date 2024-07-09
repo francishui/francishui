@@ -1,0 +1,35 @@
+@media screen and (max-width: 900px) 
+{
+    .nav-menu 
+    {
+        flex-direction: column;
+        width: 60%;
+        height: 100vh;
+        background: var(--primary-color);
+        top: 0;
+        right: -100%;
+        transition: 0.9s ease-in-out;
+    }
+
+    .active 
+    {
+        right: 0;
+    }
+
+   .slide-right 
+    {
+        margin-left: 45%;
+    }
+}
+@media screen and (max-width: 495px) 
+{
+    .nav-menu 
+    {
+        width: 75%;
+    }
+
+    .slide-right 
+    {
+        margin-left: 30%;
+    }
+}

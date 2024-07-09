@@ -1,15 +1,25 @@
 {
-  "homepage": "https://francishui.com",
+  "homepage": ".",
   "name": "francishui",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/styles": "^5.15.15",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "material-icons": "^1.13.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-elastic-carousel": "^0.11.5",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.22.3",
     "react-scripts": "5.0.1",
+    "react-scroll": "^1.9.0",
+    "react-vertical-timeline-component": "^3.6.0",
+    "typed.js": "^2.1.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

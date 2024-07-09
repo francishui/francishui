@@ -1,0 +1,22 @@
+.rec-dot
+{
+    background-color: #000000;
+}
+
+.rec-dot_active
+{
+    background-color: #6aa4e6 !important;
+    height: 1vh !important;
+    width: 1vh !important;
+    box-shadow: #6aa4e6 0px 0px 1px 2px !important;
+}
+
+.rec-arrow
+{
+    background-color: rgb(106,164,230, 0.2) !important;
+    width: 30px !important;
+    height: 75px !important;
+    border-radius: 5px !important;
+    min-height: 1vw !important;
+    min-width: 1vw !important;
+}
